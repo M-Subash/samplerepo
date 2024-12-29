@@ -1,1 +1,3 @@
-some java codes;
+class HelloJava{
+    
+}
